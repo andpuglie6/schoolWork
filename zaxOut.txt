@@ -1,0 +1,3 @@
+words 3 chars 9
+words 2 chars 4
+words 2 chars 7
